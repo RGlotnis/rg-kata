@@ -1,1 +1,1 @@
-CodeKata Java/Python sources
+CodeKata/HackerRank Java/Python sources
